@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NinjaPlatformer/Scenes/NinjaPlatformerScene.unity
+  isLoaded: 1
+  isActive: 1
